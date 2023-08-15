@@ -1,0 +1,10 @@
+{
+    "Jefferson": {
+        "edad": 15,
+        "peso": 55.5
+    },
+    "Carlos": {
+        "edad": 27,
+        "peso": 80.0
+    }
+}
